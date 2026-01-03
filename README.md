@@ -39,3 +39,12 @@ The model supports efficient reporting and KPI analysis.
 - Writing DAX measures for business KPIs
 - Designing clean and interactive Power BI dashboards
 - Translating raw data into actionable business insights
+
+  ## Dashboard Preview
+
+### Home / Overview  
+![Overview](RA_Overview.png)
+
+### Slicers and Filters  
+![Slicer View](RA_slicerview.png)
+
